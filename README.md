@@ -20,9 +20,9 @@ https://youtu.be/iT6pYsoCz60?si=hScq2kArf3iQki6f
 
 ## 📖 Project Overview
 
-Medhavy Hub is an AI-powered interactive learning platform designed to make textbooks conversational, verifiable, and deeply intuitive.
+Medhavi Hub is an AI-powered interactive learning platform designed to make textbooks conversational, verifiable, and deeply intuitive.
 
-Instead of searching across multiple tabs or relying on generic AI responses, Medhavy anchors every answer directly to your selected textbook and chapter — ensuring trust, relevance, and academic integrity.
+Instead of searching across multiple tabs or relying on generic AI responses, Medhavi anchors every answer directly to your selected textbook and chapter, ensuring trust, relevance, and academic integrity.
 
 The system understands your reading context, remembers your conversation history, and enables you to:
 
@@ -37,7 +37,7 @@ This transforms static content into an active learning environment.
 
 ---
 
-## 🚀 Core Features
+## Core Features
 
 ### 1. Context-Aware AI Assistant
 
@@ -82,6 +82,10 @@ From physics equations to medical diagrams, Medhavy:
 - Interprets visuals in clear language  
 
 ---
+
+## 🏗️ **System Architecture**
+
+```
 
 ┌─────────────────────────────────────────────────────────────────┐
 │                     AUTH HUB (Port 3000)                        │
