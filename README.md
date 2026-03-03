@@ -1,4 +1,4 @@
-# Medhavi Hub — AI-Powered Interactive Textbooks
+# Medhavi Hub - AI-Powered Interactive Textbook
 
 Stop passively reading. Start conversing with your textbook.
 
