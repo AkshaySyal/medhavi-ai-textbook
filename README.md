@@ -1,25 +1,88 @@
-# 🛡️ Textbook Authentication System
+# Medhavi Hub — AI-Powered Interactive Textbooks
 
-A comprehensive, production-ready authentication system for protecting multiple Fumadocs textbooks with centralized access control.
+Stop passively reading. Start conversing with your textbook.
 
-## 📋 **Overview**
-
-This system provides secure, token-based authentication for educational textbooks using a centralized auth hub. Students log in once and get access to all their authorized textbooks through seamless JWT-based authentication.
-
-### **🎯 Key Features**
-- **🔐 Secure JWT Authentication** - Cryptographically signed tokens
-- **👥 Role-Based Access Control** - Admin and student roles with different permissions
-- **📚 Multi-Textbook Support** - Protect unlimited number of textbooks
-- **🌐 Dynamic CORS Management** - Automatic origin whitelisting
-- **📱 Request-Approval Workflow** - Students request access, admins approve
-- **🚪 Secure Logout** - Complete session invalidation across all textbooks
-- **🗄️ No Database Required** - Uses Clerk metadata for storage
+Medhavi Hub transforms traditional textbooks into intelligent, context-aware AI study companions. Whether you're working through Physics derivations or decoding complex Cancer Biology diagrams, Medhavi delivers real-time, citation-backed assistance grounded strictly in your textbook.
 
 ---
 
-## 🏗️ **System Architecture**
+## 🔗 Live Product
 
-```
+https://physics-mechanics.medhavi.io/
+
+## 🎥 Demo Video
+
+https://youtu.be/iT6pYsoCz60?si=hScq2kArf3iQki6f
+
+[![Watch the Demo](https://img.youtube.com/vi/iT6pYsoCz60/0.jpg)](https://youtu.be/iT6pYsoCz60)
+
+---
+
+## 📖 Project Overview
+
+Medhavy Hub is an AI-powered interactive learning platform designed to make textbooks conversational, verifiable, and deeply intuitive.
+
+Instead of searching across multiple tabs or relying on generic AI responses, Medhavy anchors every answer directly to your selected textbook and chapter — ensuring trust, relevance, and academic integrity.
+
+The system understands your reading context, remembers your conversation history, and enables you to:
+
+- Ask step-by-step derivations  
+- Generate concept-check questions  
+- Request concise or detailed summaries  
+- Break down complex formulas  
+- Interpret diagrams and technical visuals  
+- Verify every answer through textbook citations  
+
+This transforms static content into an active learning environment.
+
+---
+
+## 🚀 Core Features
+
+### 1. Context-Aware AI Assistant
+
+The assistant automatically knows:
+- Which textbook you’re reading  
+- Which chapter you’re in  
+- Your ongoing conversation context  
+
+No repeated prompting required.
+
+---
+
+### 2. Trust & Verify (Citation-Backed Answers)
+
+Every response includes references directly from the textbook.
+
+This ensures:
+- Accuracy  
+- Academic integrity  
+- Transparency  
+- Source traceability  
+
+---
+
+### 3. Interactive Study Mode
+
+Students can:
+- Request full step-by-step derivations  
+- Ask for intuitive real-world analogies  
+- Generate practice questions instantly  
+- Create answer keys for self-testing  
+
+The AI adapts to how you want to learn.
+
+---
+
+### 4. Complex Concept Simplification
+
+From physics equations to medical diagrams, Medhavy:
+- Unpacks formulas line-by-line  
+- Explains symbolic notation  
+- Interprets visuals in clear language  
+
+---
+
 ┌─────────────────────────────────────────────────────────────────┐
 │                     AUTH HUB (Port 3000)                        │
 ├─────────────────────────────────────────────────────────────────┤
