@@ -1,0 +1,8 @@
+/* Tailwind v4 (CSS-first) */
+@import "tailwindcss";
+
+/* Ensure Tailwind scans our project files (otherwise many utilities won't be generated). */
+@source "../app/**/*.{js,jsx,ts,tsx,md,mdx}";
+@source "../components/**/*.{js,jsx,ts,tsx,md,mdx}";
+@source "../lib/**/*.{js,jsx,ts,tsx}";
+@source "../types/**/*.{js,jsx,ts,tsx}";
