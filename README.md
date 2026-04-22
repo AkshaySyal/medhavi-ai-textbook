@@ -8,7 +8,7 @@ Medhavi Hub transforms traditional textbooks into intelligent, context-aware AI 
 
 ## 🔗 Live Product
 
-https://physics-mechanics.medhavi.io/
+[https://physics-mechanics.medhavi.io/](https://www.medhavy.com/)
 
 ## 🎥 Demo Video
 
