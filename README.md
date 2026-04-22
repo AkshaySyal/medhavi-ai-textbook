@@ -14,7 +14,7 @@ Medhavi Hub transforms traditional textbooks into intelligent, context-aware AI 
 
 [https://youtu.be/iT6pYsoCz60?si=hScq2kArf3iQki6f](https://www.youtube.com/watch?v=-t3AvnNCNcI)
 
-[![Watch the Demo](https://img.youtube.com/vi/t3AvnNCNcI/0.jpg)]([https://youtu.be/t3AvnNCNcI](https://youtu.be/-t3AvnNCNcI?si=YeJ5RcAKFJyzKu2w))
+[![Watch the Demo](https://img.youtube.com/vi/-t3AvnNCNcI/0.jpg)](https://youtu.be/-t3AvnNCNcI)
 
 ---
 
